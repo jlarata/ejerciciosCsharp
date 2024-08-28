@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicios.csproj",
-      "projectName": "ejercicios",
-      "projectPath": "/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicios.csproj",
+      "projectUniqueName": "/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01/ejercicio01.csproj",
+      "projectName": "ejercicio01",
+      "projectPath": "/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01/ejercicio01.csproj",
       "packagesPath": "/home/j/.nuget/packages/",
-      "outputPath": "/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/obj/",
+      "outputPath": "/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/j/.nuget/NuGet/NuGet.Config"
