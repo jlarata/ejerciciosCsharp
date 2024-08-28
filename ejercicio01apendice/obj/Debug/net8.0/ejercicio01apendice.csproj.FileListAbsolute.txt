@@ -1,0 +1,15 @@
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/bin/Debug/net8.0/ejercicio01apendice
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/bin/Debug/net8.0/ejercicio01apendice.deps.json
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/bin/Debug/net8.0/ejercicio01apendice.runtimeconfig.json
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/bin/Debug/net8.0/ejercicio01apendice.dll
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/bin/Debug/net8.0/ejercicio01apendice.pdb
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/ejercicio01apendice.GeneratedMSBuildEditorConfig.editorconfig
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/ejercicio01apendice.AssemblyInfoInputs.cache
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/ejercicio01apendice.AssemblyInfo.cs
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/ejercicio01apendice.csproj.CoreCompileInputs.cache
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/ejercicio01apendice.sourcelink.json
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/ejercicio01apendice.dll
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/refint/ejercicio01apendice.dll
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/ejercicio01apendice.pdb
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/ejercicio01apendice.genruntimeconfig.cache
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio01apendice/obj/Debug/net8.0/ref/ejercicio01apendice.dll

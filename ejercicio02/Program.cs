@@ -1,4 +1,4 @@
-﻿public class ConstructorsAndDestructors
+﻿class ConstructorsAndDestructors
     {     
         static void Main(string[] args) {
         
@@ -6,13 +6,13 @@
 
         string[] namesArray = new string[3];     
         
-        namesArray = askThreeNames();
-        setThreeNames(persons, namesArray);
-        printThreeNames(persons);    
+        namesArray = AskThreeNames();
+        SetThreeNames(persons, namesArray);
+        PrintThreeNames(persons);    
         
         }
 
-        public static string[] askThreeNames() {
+        static string[] AskThreeNames() {
             
             string[] namesArray = new string[3];
 
@@ -23,22 +23,21 @@
             return namesArray;
         }
 
-        public static void setThreeNames(Person[] persons, string[] namesArray) {
+        static void SetThreeNames(Person[] persons, string[] namesArray) {
             for (int i = 0; i<3; i++){
                 //alternativa: persons[i] = new Person(namesArray[i]);
-                persons[i] = new Person("");
+                persons[i] = new Person("...");
                 persons[i].Name = namesArray[i];
             }
         }
-        public static void printThreeNames(Person[] persons) {
+        static void PrintThreeNames(Person[] persons) {
             for (int i = 0; i<3; i++){
                 Console.Write(persons[i].Name+" ");
                 //Console.Write(persons[i].getName()+" ");
                 //Console.WriteLine(persons[i].ToString());
             }
         }        
-    };
-    public class Person {
+            class Person {
             private string _name;
             public Person(string name)
             {
@@ -54,4 +53,5 @@
             ~Person() {
                 _name = string.Empty;
             }
-    }
+        }
+    };
