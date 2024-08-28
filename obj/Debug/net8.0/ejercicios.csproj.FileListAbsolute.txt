@@ -1,0 +1,14 @@
+/home/ariel/Documents/C#/ejercicios/bin/Debug/net8.0/ejercicios
+/home/ariel/Documents/C#/ejercicios/bin/Debug/net8.0/ejercicios.deps.json
+/home/ariel/Documents/C#/ejercicios/bin/Debug/net8.0/ejercicios.runtimeconfig.json
+/home/ariel/Documents/C#/ejercicios/bin/Debug/net8.0/ejercicios.dll
+/home/ariel/Documents/C#/ejercicios/bin/Debug/net8.0/ejercicios.pdb
+/home/ariel/Documents/C#/ejercicios/obj/Debug/net8.0/ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/ariel/Documents/C#/ejercicios/obj/Debug/net8.0/ejercicios.AssemblyInfoInputs.cache
+/home/ariel/Documents/C#/ejercicios/obj/Debug/net8.0/ejercicios.AssemblyInfo.cs
+/home/ariel/Documents/C#/ejercicios/obj/Debug/net8.0/ejercicios.csproj.CoreCompileInputs.cache
+/home/ariel/Documents/C#/ejercicios/obj/Debug/net8.0/ejercicios.dll
+/home/ariel/Documents/C#/ejercicios/obj/Debug/net8.0/refint/ejercicios.dll
+/home/ariel/Documents/C#/ejercicios/obj/Debug/net8.0/ejercicios.pdb
+/home/ariel/Documents/C#/ejercicios/obj/Debug/net8.0/ejercicios.genruntimeconfig.cache
+/home/ariel/Documents/C#/ejercicios/obj/Debug/net8.0/ref/ejercicios.dll
