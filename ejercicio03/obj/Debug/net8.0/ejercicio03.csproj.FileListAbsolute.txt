@@ -1,0 +1,15 @@
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/bin/Debug/net8.0/ejercicio03
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/bin/Debug/net8.0/ejercicio03.deps.json
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/bin/Debug/net8.0/ejercicio03.runtimeconfig.json
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/bin/Debug/net8.0/ejercicio03.dll
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/bin/Debug/net8.0/ejercicio03.pdb
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/ejercicio03.AssemblyInfoInputs.cache
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/ejercicio03.AssemblyInfo.cs
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/ejercicio03.csproj.CoreCompileInputs.cache
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/ejercicio03.sourcelink.json
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/ejercicio03.dll
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/refint/ejercicio03.dll
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/ejercicio03.pdb
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/ejercicio03.genruntimeconfig.cache
+/home/j/Hackerwoman/Proyectos/NET/ejerciciosCsharp/ejercicio03/obj/Debug/net8.0/ref/ejercicio03.dll
