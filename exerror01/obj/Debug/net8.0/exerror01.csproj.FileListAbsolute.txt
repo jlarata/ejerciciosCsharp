@@ -1,0 +1,15 @@
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\bin\Debug\net8.0\exerror01.exe
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\bin\Debug\net8.0\exerror01.deps.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\bin\Debug\net8.0\exerror01.runtimeconfig.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\bin\Debug\net8.0\exerror01.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\bin\Debug\net8.0\exerror01.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\exerror01.GeneratedMSBuildEditorConfig.editorconfig
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\exerror01.AssemblyInfoInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\exerror01.AssemblyInfo.cs
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\exerror01.csproj.CoreCompileInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\exerror01.sourcelink.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\exerror01.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\refint\exerror01.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\exerror01.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\exerror01.genruntimeconfig.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\exerror01\obj\Debug\net8.0\ref\exerror01.dll
