@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejercicioPublicidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+809bead47094d972c10b51509870a81856b50904")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8de2fb1668d653e1c27960cf40ef99245e2f175a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejercicioPublicidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejercicioPublicidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
