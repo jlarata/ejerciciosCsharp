@@ -1,8 +1,4 @@
-﻿using System.Collections;
-using System.Dynamic;
-using System.Runtime.Intrinsics.Arm;
-
-public class EjercicioPublicidades {
+﻿class EjercicioPublicidades {
     static void Main() {
 
         //inicializo 3 medios

@@ -1,0 +1,15 @@
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\bin\Debug\net8.0\sociosyclientes.exe
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\bin\Debug\net8.0\sociosyclientes.deps.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\bin\Debug\net8.0\sociosyclientes.runtimeconfig.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\bin\Debug\net8.0\sociosyclientes.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\bin\Debug\net8.0\sociosyclientes.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\sociosyclientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\sociosyclientes.AssemblyInfoInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\sociosyclientes.AssemblyInfo.cs
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\sociosyclientes.csproj.CoreCompileInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\sociosyclientes.sourcelink.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\sociosyclientes.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\refint\sociosyclientes.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\sociosyclientes.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\sociosyclientes.genruntimeconfig.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\sociosyclientes\obj\Debug\net8.0\ref\sociosyclientes.dll
