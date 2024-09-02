@@ -1,0 +1,15 @@
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\bin\Debug\net8.0\ejerciciocapitales.exe
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\bin\Debug\net8.0\ejerciciocapitales.deps.json
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\bin\Debug\net8.0\ejerciciocapitales.runtimeconfig.json
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\bin\Debug\net8.0\ejerciciocapitales.dll
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\bin\Debug\net8.0\ejerciciocapitales.pdb
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\ejerciciocapitales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\ejerciciocapitales.AssemblyInfoInputs.cache
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\ejerciciocapitales.AssemblyInfo.cs
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\ejerciciocapitales.csproj.CoreCompileInputs.cache
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\ejerciciocapitales.sourcelink.json
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\ejerciciocapitales.dll
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\refint\ejerciciocapitales.dll
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\ejerciciocapitales.pdb
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\ejerciciocapitales.genruntimeconfig.cache
+D:\Users\usuario\Documents\Ariel\Hackerwoman\ejercicios\C#\ejerciciosCsharp\ejerciciocapitales\obj\Debug\net8.0\ref\ejerciciocapitales.dll
