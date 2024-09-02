@@ -1,0 +1,15 @@
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\bin\Debug\net8.0\ejercicioOperatorOverload.exe
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\bin\Debug\net8.0\ejercicioOperatorOverload.deps.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\bin\Debug\net8.0\ejercicioOperatorOverload.runtimeconfig.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\bin\Debug\net8.0\ejercicioOperatorOverload.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\bin\Debug\net8.0\ejercicioOperatorOverload.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\ejercicioOperatorOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\ejercicioOperatorOverload.AssemblyInfoInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\ejercicioOperatorOverload.AssemblyInfo.cs
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\ejercicioOperatorOverload.csproj.CoreCompileInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\ejercicioOperatorOverload.sourcelink.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\ejercicioOperatorOverload.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\refint\ejercicioOperatorOverload.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\ejercicioOperatorOverload.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\ejercicioOperatorOverload.genruntimeconfig.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioOperatorOverload\obj\Debug\net8.0\ref\ejercicioOperatorOverload.dll

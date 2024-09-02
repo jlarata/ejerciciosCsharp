@@ -1,0 +1,15 @@
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\bin\Debug\net8.0\ejerciciopropiedad.exe
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\bin\Debug\net8.0\ejerciciopropiedad.deps.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\bin\Debug\net8.0\ejerciciopropiedad.runtimeconfig.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\bin\Debug\net8.0\ejerciciopropiedad.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\bin\Debug\net8.0\ejerciciopropiedad.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\ejerciciopropiedad.GeneratedMSBuildEditorConfig.editorconfig
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\ejerciciopropiedad.AssemblyInfoInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\ejerciciopropiedad.AssemblyInfo.cs
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\ejerciciopropiedad.csproj.CoreCompileInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\ejerciciopropiedad.sourcelink.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\ejerciciopropiedad.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\refint\ejerciciopropiedad.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\ejerciciopropiedad.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\ejerciciopropiedad.genruntimeconfig.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejerciciopropiedad\obj\Debug\net8.0\ref\ejerciciopropiedad.dll

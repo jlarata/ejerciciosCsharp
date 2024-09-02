@@ -1,0 +1,15 @@
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\ejercicioStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\ejercicioStatic.AssemblyInfoInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\ejercicioStatic.AssemblyInfo.cs
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\ejercicioStatic.csproj.CoreCompileInputs.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\ejercicioStatic.sourcelink.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\bin\Debug\net8.0\ejercicioStatic.exe
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\bin\Debug\net8.0\ejercicioStatic.deps.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\bin\Debug\net8.0\ejercicioStatic.runtimeconfig.json
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\bin\Debug\net8.0\ejercicioStatic.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\bin\Debug\net8.0\ejercicioStatic.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\ejercicioStatic.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\refint\ejercicioStatic.dll
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\ejercicioStatic.pdb
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\ejercicioStatic.genruntimeconfig.cache
+C:\coso\Desktold\Hackerwoman\praxis\ejercicios\C#\ejerciciosCSharp\ejercicioStatic\obj\Debug\net8.0\ref\ejercicioStatic.dll

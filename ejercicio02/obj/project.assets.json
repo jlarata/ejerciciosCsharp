@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\ariel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\usuario\\Documents\\Ariel\\Hackerwoman\\ejercicios\\C#\\ejerciciosCsharp\\ejercicio02\\ejercicio02.csproj",
+      "projectUniqueName": "C:\\coso\\Desktold\\Hackerwoman\\praxis\\ejercicios\\C#\\ejerciciosCSharp\\ejercicio02\\ejercicio02.csproj",
       "projectName": "ejercicio02",
-      "projectPath": "D:\\Users\\usuario\\Documents\\Ariel\\Hackerwoman\\ejercicios\\C#\\ejerciciosCsharp\\ejercicio02\\ejercicio02.csproj",
-      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\usuario\\Documents\\Ariel\\Hackerwoman\\ejercicios\\C#\\ejerciciosCsharp\\ejercicio02\\obj\\",
+      "projectPath": "C:\\coso\\Desktold\\Hackerwoman\\praxis\\ejercicios\\C#\\ejerciciosCSharp\\ejercicio02\\ejercicio02.csproj",
+      "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+      "outputPath": "C:\\coso\\Desktold\\Hackerwoman\\praxis\\ejercicios\\C#\\ejerciciosCSharp\\ejercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
